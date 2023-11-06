@@ -1,8 +1,8 @@
-### Hey 👋
+### Hey ✋
 I'm Fatemeh. 
-Have been coding for a couple of years. 
+Have been coding for a couple of years💻. 
 
-You can also find me on [Kaggle](https://www.kaggle.com/fatemehrafiei) and [YouTube](https://www.youtube.com/channel/UCQgIZcC-FSkguIhHN9q3vPA) :yt: .
+You can also find me on [Kaggle](https://www.kaggle.com/fatemehrafiei) and 👉[YouTube](https://www.youtube.com/channel/UCQgIZcC-FSkguIhHN9q3vPA)👈.
 
 <!--
 **FatemehRafiee1/FatemehRafiee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
