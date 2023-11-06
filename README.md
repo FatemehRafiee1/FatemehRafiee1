@@ -1,6 +1,5 @@
 
-### Hi 🌻![99a7033](https://github.com/FatemehRafiee1/FatemehRafiee1/assets/97700019/2fb9a0b5-e0e9-4e0e-83d9-89889cc300e4)
-
+### Hi 🌻
 I'm [Fatemeh](https://github.com/FatemehRafiee1). 
 Have been coding for a couple of years💻. 
 
