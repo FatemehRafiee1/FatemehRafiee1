@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey 👋
+I'm Fatemeh. 
+Have been coding for a couple of years. 
+You can also find me on [Kaggle](https://www.kaggle.com/fatemehrafiei)
 
 <!--
 **FatemehRafiee1/FatemehRafiee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
