@@ -1,5 +1,9 @@
-### Hey ✋
-I'm Fatemeh. 
+<div align="center">
+  <img src="your-avatar-url" alt="Fatemeh" width="200" height="200">
+</div>
+
+### Hi 🌻
+I'm [Fatemeh](https://github.com/FatemehRafiee1). 
 Have been coding for a couple of years💻. 
 
 You can also find me on [Kaggle](https://www.kaggle.com/fatemehrafiei) and 👉[YouTube](https://www.youtube.com/channel/UCQgIZcC-FSkguIhHN9q3vPA)👈.
